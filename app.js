@@ -1,3 +1,1 @@
-<script>
-consol.log('Hello World');
-</script>
+console.log("Hello world!");
